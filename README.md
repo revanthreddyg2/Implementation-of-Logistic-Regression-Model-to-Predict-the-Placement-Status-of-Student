@@ -82,8 +82,9 @@ plt.show()
 ```
 
 ## Output:
-![Uploading Screenshot 2026-01-30 114211.png…]()
 
+
+<img width="1902" height="1079" alt="Screenshot 2026-01-30 114211" src="https://github.com/user-attachments/assets/3fa73ace-b4f2-4958-b81f-b03952e9f21c" />
 
 
 ## Result:
