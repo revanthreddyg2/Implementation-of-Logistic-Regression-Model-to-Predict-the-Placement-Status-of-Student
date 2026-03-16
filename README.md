@@ -8,10 +8,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Collect dataset, split into training and testing sets, and standardize the features.
+
+2.Train the Logistic Regression model using training data.
+
+3.Predict outcomes on test data and compute metrics (accuracy, confusion matrix, ROC–AUC).
+
+4.Validate with cross-validation and use the model for new predictions.
 
 ## Program:
 ```
